@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bala-221
 - 👀 I’m interested in computer vision
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on cancer image classifcation
+- 🌱 Python guy
+- 💞️ I’m working on fault prediction in machines
 - 📫 How to reach me abala@buk.edu.ng
 
 <!---
